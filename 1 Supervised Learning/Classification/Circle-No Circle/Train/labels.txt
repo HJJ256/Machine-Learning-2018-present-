@@ -1,0 +1,16 @@
+circle1.png 1
+circle2.png 1
+circle3.png 1
+circle4.png 1
+circle5.png 1
+circle6.png 1
+circle7.png 1
+circle8.png 1
+nocircle1.png 0
+nocircle2.png 0
+nocircle3.png 0
+nocircle4.png 0
+nocircle5.png 0
+nocircle6.png 0
+nocircle7.png 0
+nocircle8.png 0
